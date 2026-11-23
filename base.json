@@ -1,0 +1,38 @@
+[
+ {
+ "id": "DEMO01", "area": "Tecnologia",
+ "curso": "Análise e Desenvolvimento de Sistemas",
+ "instituicao": "Faculdade Exemplo A — fictícia",
+ "tipo": "Privada", "cidade": "São Paulo",
+ "modalidade": "Presencial", "turno": "Noturno",
+ "duracao_meses": 30,
+ "ocupacao": "Desenvolvedor de software",
+ "rotina": "Criar, testar e manter sistemas.",
+ "entrada_mercado": "Estudar Python, banco de dados e Git.",
+ "salario_medio": null,
+ "mensalidade_integral": 1000, "bolsa_percentual": 20,
+ "condicao_bolsa": "SIMULAÇÃO: desconto em todo o curso.",
+ "ingresso": "SIMULAÇÃO: vestibular próprio.",
+ "nota_corte": null,
+ "fonte": "Dados fictícios para aprender programação",
+ "consultado_em": "2026-10-30"
+ },
+ {
+ "id": "DEMO02", "area": "Tecnologia",
+ "curso": "Ciência da Computação",
+ "instituicao": "Universidade Exemplo B — fictícia",
+ "tipo": "Pública", "cidade": "São Paulo",
+ "modalidade": "Presencial", "turno": "Integral",
+ "duracao_meses": 48,
+ "ocupacao": "Profissional de computação",
+ "rotina": "Estudar algoritmos e criar soluções de software.",
+ "entrada_mercado": "Desenvolver projetos e buscar estágio.",
+ "salario_medio": null,
+ "mensalidade_integral": 0, "bolsa_percentual": 0,
+ "condicao_bolsa": "Não se aplica à mensalidade do exemplo.",
+ "ingresso": "SIMULAÇÃO: consultar edital público.",
+ "nota_corte": null,
+ "fonte": "Dados fictícios para aprender programação",
+ "consultado_em": "2026-10-30"
+ }
+]
